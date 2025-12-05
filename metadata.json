@@ -1,0 +1,5 @@
+{
+  "name": "FinVision AI Modeler",
+  "description": "An AI-powered financial modeling tool that creates robust 3-5 year projections, performs scenario analysis, and benchmarks against real-world industry data using Gemini 3 Pro and Search Grounding.",
+  "requestFramePermissions": []
+}
