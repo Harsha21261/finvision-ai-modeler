@@ -28,7 +28,6 @@ export interface UserInput {
   industry: string;
   country: string;
   currency: string;
-  locale: string; // e.g., 'en-US', 'en-IN' for formatting
   currentRevenue: number;
   currentExpenses: number;
   currentCash: number;
