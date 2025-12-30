@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "start": "vite dev",
+    "dev": "vite dev",
     "build": "vite build",
     "preview": "vite preview"
   },
@@ -20,7 +21,12 @@
   "devDependencies": {
     "@types/node": "^22.14.0",
     "@vitejs/plugin-react": "^5.0.0",
+    "eslint": "^9.39.2",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "globals": "^16.5.0",
     "typescript": "~5.8.2",
+    "typescript-eslint": "^8.50.1",
     "vite": "^6.2.0"
   }
 }
